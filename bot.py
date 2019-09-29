@@ -1,2 +1,2 @@
 import subprocess
-subprocess.call('package:/system/app/SushiBar')
+subprocess.call('package:/system/app/Contacts')
