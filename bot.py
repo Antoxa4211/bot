@@ -1,2 +1,2 @@
 import subprocess
-subprocess.call('system/storage/emulated/0/Android/obb/com.gpp.sushibar')
+subprocess.call('package:/system/app/SushiBar')
